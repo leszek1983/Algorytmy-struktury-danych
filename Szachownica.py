@@ -33,3 +33,6 @@ for i in range(6):
         b=1
     else:
         b=0
+
+# 1. Brak podawania parametrów z klawiatury
+# 2. Proponuję zmienić nazewnictwo na bardziej czytelne
